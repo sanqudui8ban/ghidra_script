@@ -51,7 +51,7 @@ public class DumpPcode1011 extends GhidraScript {
       try
       {
     println("haha1");
-        f = new File("C:\\Users\\ge.zhenxi\\Desktop\\pcode.bin");
+        f = new File("C:\\Users\\chai.peng\\Desktop\\pcode.bin");
         ia = new PrintWriter(f);
         if(f.exists())
         {
